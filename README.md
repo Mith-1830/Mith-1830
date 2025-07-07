@@ -17,7 +17,7 @@
 
 ## 🌐 Connect With Me
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/mithunnnn__)  
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/mithunnnnn__)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mithun-r-i)  
 [![X](https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=x&logoColor=white)](https://x.com/MithunRI1830)  
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mithunri310@gmail.com)
