@@ -1,475 +1,108 @@
-Completely DELETE and replace my previous GitHub profile README.
+I want you to completely redesign my GitHub Profile README.md from scratch.
 
-The previous profile was created when I was learning Data Analytics, so it contains Data Analyst, Power BI, dashboard, Pandas, NumPy, Matplotlib, and similar content.
+IMPORTANT:
+I have an OLD GitHub profile that was created when I was learning Data Analytics.
 
-**DO NOT KEEP ANY OF THE OLD DATA ANALYTICS POSITIONING.**
+DELETE THE OLD POSITIONING COMPLETELY.
 
-Create a completely new, professional, recruiter-focused GitHub profile README.md based ONLY on my current career profile and resume.
+Do NOT edit or preserve the old Data Analyst profile.
+Do NOT mention Data Analytics, Power BI, dashboard building, Pandas, NumPy, Matplotlib, Plotly, or Data Science unless directly required by one of my current projects.
 
-# 🎯 MY CURRENT PROFESSIONAL BRAND
+My GitHub profile must now represent my CURRENT career direction:
 
-My target role is:
+QA AUTOMATION ENGINEER | PLAYWRIGHT + TYPESCRIPT | UI & API AUTOMATION | RPA / BLUE PRISM
 
-**QA Automation Engineer | Test Automation | Playwright + TypeScript | UI & API Automation | RPA / Blue Prism**
+I want the final GitHub profile to look like a PREMIUM SOFTWARE ENGINEERING PORTFOLIO, not a normal README.
 
-My GitHub profile should communicate that I am building practical expertise in:
+I am attaching/providing a visual reference showing the style I want.
 
-* QA Automation
-* Playwright
-* TypeScript
-* UI Automation
-* API Automation
-* Selenium
-* Java
-* Page Object Model (POM)
-* Custom Fixtures
-* Reusable Automation Frameworks
-* REST API Testing
-* JSON Schema Validation
-* AJV
-* Git & GitHub
-* GitHub Actions
-* Jenkins
-* CI/CD
-* Allure / HTML Reporting
-* Manual Testing
-* JIRA
-* Agile/Scrum
-* Robotic Process Automation
-* Blue Prism
+The visual direction should be:
 
-The profile should feel like a **real QA Automation Engineer's GitHub profile**, not a student portfolio and not a generic generated README.
+- Dark professional theme
+- Modern developer portfolio aesthetic
+- Blue / purple / cyan accent colors
+- Glassmorphism-inspired cards where GitHub-compatible HTML allows it
+- Clear section separation
+- Compact information cards
+- Professional technology badges
+- Project cards
+- Visual workflow
+- Strong hero section
+- Recruiter-focused content
+- Minimal but meaningful emojis
+- Excellent spacing
+- Strong visual hierarchy
+- No boring wall of text
+- No generic GPRM-style template
+- No excessive GitHub statistics
+- No unnecessary visitor counters
+- No trophy spam
 
----
+The README should feel like:
 
-# 👋 HEADER
+"QA Automation Engineer portfolio + automation engineering showcase"
 
-Create a strong centered introduction:
+rather than:
 
-**Hi 👋, I'm Mithun R I**
+"student profile + list of technologies"
 
-Under it:
+==================================================
+1. HERO SECTION
+==================================================
 
-**QA Automation Engineer | Playwright + TypeScript | UI & API Automation | RPA / Blue Prism**
+Create a visually impressive hero section at the very top.
 
-Add a short professional introduction explaining that I am focused on building maintainable test automation frameworks, automating end-to-end workflows, validating APIs, integrating automation with CI/CD, and developing RPA solutions using Blue Prism.
+Use centered HTML where GitHub supports it.
 
-Keep the introduction concise and recruiter-friendly.
+Show:
 
----
+# Hi 👋, I'm Mithun R I
 
-# 💫 ABOUT ME
+Then:
 
-Create a professional "About Me" section.
+QA Automation Engineer | Playwright + TypeScript
+UI & API Automation | RPA / Blue Prism
 
-Use the following facts:
+Add a short 2–3 sentence professional introduction.
 
-* QA & Automation Testing Intern / RPA Trainee at Automatorr Consulting Services Private Limited
-* Internship completed in February 2026
-* Hands-on experience in Automation Testing and Robotic Process Automation
-* Playwright + TypeScript for UI and API automation
-* Selenium + Java for web UI automation
-* Page Object Model
-* Custom fixtures
-* Reusable utilities/helpers
-* Test data management
-* Smoke and Regression testing
-* REST API validation
-* JSON response validation
-* JSON Schema validation using AJV
-* Git/GitHub workflows
-* GitHub Actions
-* Jenkins
-* HTML and Allure reporting
-* Screenshots, videos and traces for debugging
-* Blue Prism automation
-* Work Queues
-* Business/System Exception Handling
-* Process/Object Design
-* Credential Management
-* Manual testing
-* Test case design
-* Defect reporting and tracking
-* JIRA
-* Agile/Scrum
+The introduction should communicate:
 
-Write this naturally instead of simply copying the resume.
+- QA Automation focus
+- Playwright + TypeScript
+- UI automation
+- API automation
+- scalable/maintainable automation frameworks
+- CI/CD
+- Selenium + Java
+- RPA / Blue Prism
 
-Do NOT claim that I have several years of professional QA experience.
+Do NOT describe me as an experienced senior engineer.
 
----
+Do NOT invent years of experience.
 
-# 🧪 MY CORE QA AUTOMATION STACK
+Position me honestly as someone with hands-on automation training, internship experience, and practical projects.
 
-Create a visually attractive technology section.
+Add attractive technology badges directly underneath:
 
-Organize the technologies into professional categories.
+Playwright
+TypeScript
+API Testing
+Selenium
+Java
+GitHub Actions
+Jenkins
+Blue Prism
+RPA
 
-### Test Automation
+Make the badges visually consistent.
 
-* Playwright
-* Selenium
-* UI Automation
-* API Automation
-* End-to-End Testing
-* Cross-Browser Testing
-* Smoke Testing
-* Regression Testing
+==================================================
+2. SOCIAL / CONTACT BAR
+==================================================
 
-### Programming
+Immediately below the hero section, create a clean horizontal contact area.
 
-* TypeScript
-* Java
-* Python
-* SQL
-
-### Automation Framework
-
-* Page Object Model (POM)
-* Custom Fixtures
-* Reusable Utilities / Helpers
-* Test Data Management
-* Constants
-* Enums
-
-### API Testing
-
-* REST API
-* HTTP Status Code Validation
-* JSON Response Validation
-* JSON Schema Validation
-* AJV
-* Playwright API Testing
-
-### CI/CD & Version Control
-
-* Git
-* GitHub
-* GitHub Actions
-* Jenkins
-* Feature Branching
-* Pull Requests
-* Merge-Based Integration
-
-### Reporting & Debugging
-
-* Playwright HTML Reports
-* Allure Reports
-* Screenshots
-* Videos
-* Traces
-
-### Testing
-
-* Manual Testing
-* Test Case Design
-* Test Execution
-* Defect Reporting
-* JIRA
-* STLC
-* SDLC
-* Agile/Scrum
-
----
-
-# 🤖 RPA / BLUE PRISM
-
-This section is VERY IMPORTANT.
-
-Do not hide Blue Prism at the bottom of the profile.
-
-Create a dedicated section:
-
-## 🤖 RPA & Blue Prism
-
-Explain that alongside QA Automation, I have hands-on experience with **Robotic Process Automation using Blue Prism**.
-
-Highlight:
-
-* Blue Prism
-* Work Queues
-* Process Design
-* Object Design
-* Business Exceptions
-* System Exceptions
-* Exception Handling
-* Credential Management
-* Data Scraping
-* Queue-Based Processing
-
-Mention these projects:
-
-### AI Singapore — HR RPA Exercise
-
-* Automated an HR-oriented workflow using Blue Prism.
-* Job-list download
-* Queue-based processing
-* Exception handling
-
-### ACME — Client Security Hash Automation
-
-* Developed a Blue Prism automation solution.
-* Data scraping
-* Queue processing
-* Exception handling
-
-Present these as actual hands-on automation projects.
-
-Do not exaggerate them.
-
----
-
-# 🚀 FEATURED PROJECTS
-
-Create a prominent section:
-
-# 🚀 Featured Automation Projects
-
-The first and largest project must be:
-
-## 1. Playwright + TypeScript UI & API Automation Framework
-
-This is my MAIN project and should receive the most visual attention.
-
-Describe it professionally:
-
-* Scalable Playwright + TypeScript automation framework
-* Page Object Model
-* Reusable framework components
-* Authentication workflow automation
-* Inventory workflow automation
-* Cart workflow automation
-* Checkout workflow automation
-* Custom fixtures
-* Test data management
-* Constants
-* Enums
-* Utility/helper classes
-* Smoke and Regression suites
-* Chromium
-* Firefox
-* WebKit
-* HTML reports
-* Allure reports
-* Screenshots
-* Videos
-* Traces
-* Git/GitHub workflow
-* Feature branches
-* Meaningful commits
-* Pull Requests
-* Merge-based integration
-* GitHub Actions
-* Jenkins CI/CD
-
-Show a small professional architecture example:
-
-```text
-Playwright Automation Framework
-│
-├── tests/
-├── pages/
-├── fixtures/
-├── utils/
-├── data/
-├── constants/
-├── enums/
-├── reports/
-└── playwright.config.ts
-```
-
-Do not invent additional folders or features beyond what is reasonably supported.
-
-Add a repository placeholder:
-
-`[View Project →](REPOSITORY_LINK)`
-
----
-
-## 2. API Testing Suite — Playwright + TypeScript
-
-Highlight:
-
-* REST API automation
-* Status-code assertions
-* JSON response validation
-* JSON schema validation
-* AJV
-* Reusable helpers
-* Custom fixtures
-* Consistent test naming
-
-Add:
-
-`[View Project →](REPOSITORY_LINK)`
-
----
-
-## 3. OpenCart — End-to-End UI Automation
-
-Technology:
-
-* Selenium
-* Java
-* Page Object Model
-
-Automated:
-
-* Login
-* Product Search
-* Add to Cart
-* Checkout
-
-Add:
-
-`[View Project →](REPOSITORY_LINK)`
-
----
-
-## 4. AI Singapore — HR RPA Exercise
-
-Technology:
-
-* Blue Prism
-
-Highlight:
-
-* Job-list download
-* Queue processing
-* Exception handling
-
-Add:
-
-`[View Project →](REPOSITORY_LINK)`
-
----
-
-## 5. ACME — Client Security Hash Automation
-
-Technology:
-
-* Blue Prism
-
-Highlight:
-
-* Data scraping
-* Queue processing
-* Exception handling
-
-Add:
-
-`[View Project →](REPOSITORY_LINK)`
-
----
-
-## 6. Position Pal — AI Resume Screening Assistant
-
-Technology:
-
-* Microsoft 365 Copilot
-
-Highlight:
-
-* Job description analysis
-* Resume analysis
-* Required vs missing skill identification
-* Structured screening feedback
-
-Add:
-
-`[View Project →](REPOSITORY_LINK)`
-
----
-
-# 🧠 MY AUTOMATION ENGINEERING APPROACH
-
-Create a professional section explaining how I think about automation.
-
-Focus on:
-
-**Maintainability → Reusability → Reliability → Debuggability → CI/CD**
-
-Explain that I focus on:
-
-* Designing reusable Page Objects
-* Building reusable fixtures and utilities
-* Separating test data from test logic
-* Writing reliable assertions
-* Organizing Smoke and Regression suites
-* Validating both UI and API layers
-* Running tests across browsers
-* Producing useful reports
-* Capturing screenshots/videos/traces for debugging
-* Using Git-based development workflows
-* Integrating automation into CI/CD
-
-This section should make me look like someone who understands **automation engineering**, not someone who simply records browser actions.
-
----
-
-# 🔄 ENGINEERING WORKFLOW
-
-Create a clean visual workflow:
-
-**Plan → Develop → Test → Commit → Pull Request → Review → Merge → CI/CD**
-
-Explain briefly:
-
-* Feature branches
-* Meaningful commits
-* Pull Requests
-* Merge-based integration
-* GitHub Actions
-* Jenkins
-
----
-
-# 📚 CURRENTLY LEARNING
-
-Create a concise section showing continuous development.
-
-Include:
-
-* Advanced Playwright
-* Advanced TypeScript for automation
-* UI + API automation
-* Automation framework architecture
-* CI/CD
-* Git/GitHub
-* Advanced test automation practices
-* AI-assisted testing
-
-Do NOT include Data Analytics or Power BI.
-
----
-
-# 🎓 EDUCATION
-
-Include:
-
-**Master of Computer Applications (MCA)**
-SNS College of Technology | 2023–2025
-
-**Bachelor of Computer Science (BSc. CS)**
-KG College of Arts and Science | 2020–2023
-
----
-
-# 🏆 CERTIFICATIONS
-
-Include:
-
-* Blue Prism Foundation Training
-* Blue Prism ROM2
-* Playwright API Testing Mastery with TypeScript — Udemy
-* SAP ABAP
-* Python — PrepInsta
-
----
-
-# 🌐 CONNECT WITH ME
-
-Make LinkedIn and GitHub prominent.
+Make LinkedIn and GitHub the most prominent.
 
 LinkedIn:
 https://linkedin.com/in/mithun-r-i
@@ -478,7 +111,7 @@ GitHub:
 https://github.com/Mith-1830
 
 Email:
-[mithunri310@gmail.com](mailto:mithunri310@gmail.com)
+mithunri310@gmail.com
 
 Instagram:
 https://instagram.com/mithunnnnn__
@@ -486,129 +119,776 @@ https://instagram.com/mithunnnnn__
 X:
 https://x.com/MithunRI1830
 
-Use professional social badges.
+Use professional shields.io badges or GitHub-compatible icons.
 
-Do not make Instagram/X more prominent than LinkedIn/GitHub.
+Do NOT make Instagram or X more prominent than LinkedIn/GitHub.
 
----
+==================================================
+3. ABOUT ME
+==================================================
 
-# 📊 GITHUB STATISTICS
+Create an attractive "👨‍💻 About Me" section.
 
-If you include GitHub statistics, keep them secondary.
+Use a two-column layout if GitHub-compatible HTML allows it.
 
-Do not make the README look like a gaming profile.
+Left side:
+Short professional summary.
 
-Avoid excessive:
+Right side:
+A compact list of key strengths.
 
-* Trophies
-* Visitor counters
-* Streak graphics
-* Random contribution widgets
+Use information from my resume:
 
-The recruiter should first see:
+- QA & Automation Testing Intern / RPA Trainee
+- Automatorr Consulting Services Private Limited
+- Internship completed February 2026
+- Playwright + TypeScript
+- UI and API automation
+- Selenium + Java
+- Page Object Model
+- Custom fixtures
+- Reusable utilities
+- Test data management
+- REST API testing
+- JSON validation
+- JSON Schema validation
+- AJV
+- Git/GitHub
+- GitHub Actions
+- Jenkins
+- HTML/Allure reporting
+- Screenshots
+- Videos
+- Traces
+- Manual testing
+- JIRA
+- Agile/Scrum
+- Blue Prism
+- RPA
 
-**Profile → QA Skills → Playwright Framework → API Testing → RPA/Blue Prism → Projects → Engineering Approach**
+Keep the text concise.
 
-Only after that should GitHub statistics appear.
+Do not simply copy my resume word-for-word.
 
----
+==================================================
+4. CORE QA AUTOMATION STACK
+==================================================
 
-# 🎨 DESIGN REQUIREMENTS
+Create a visually rich section:
 
-Make the entire README look premium.
+## 🧪 Core QA Automation Stack
+
+Instead of one long list, create several compact cards using HTML tables.
+
+Cards/categories:
+
+### Test Automation
+- Playwright
+- Selenium
+- UI Automation
+- API Automation
+- End-to-End Testing
+- Cross-Browser Testing
+- Smoke Testing
+- Regression Testing
+
+### Programming
+- TypeScript
+- Java
+- Python
+- SQL
+
+### Automation Framework
+- Page Object Model
+- Custom Fixtures
+- Reusable Utilities / Helpers
+- Test Data Management
+- Constants
+- Enums
+
+### API Testing
+- REST API
+- HTTP Status Codes
+- JSON Response Validation
+- JSON Schema Validation
+- AJV
+- Playwright API Testing
+
+### CI/CD & Version Control
+- Git
+- GitHub
+- GitHub Actions
+- Jenkins
+- Feature Branching
+- Pull Requests
+- Merge-Based Integration
+
+### Reporting & Debugging
+- HTML Reports
+- Allure Reports
+- Screenshots
+- Videos
+- Traces
+
+### Testing Practices
+- Manual Testing
+- Test Case Design
+- Test Execution
+- Defect Reporting
+- JIRA
+- STLC
+- SDLC
+- Agile/Scrum
+
+Use technology badges/icons wherever practical.
+
+==================================================
+5. RPA / BLUE PRISM
+==================================================
+
+This must be a major section.
+
+Do NOT hide Blue Prism inside the technology list.
+
+Create:
+
+## 🤖 RPA & Blue Prism Experience
+
+Make this visually distinct from the QA Automation section.
+
+Explain briefly:
+
+I also have hands-on experience in Robotic Process Automation using Blue Prism, including process/object design, work queues, exception handling, credential management and queue-based automation.
+
+Create two attractive project cards.
+
+### AI Singapore — HR RPA Exercise
+
+Technology:
+Blue Prism
+
+Include:
+
+- Job-list download
+- Queue-based processing
+- Business/System exception handling
+
+Repository:
+
+REPOSITORY_LINK
+
+### ACME — Client Security Hash Automation
+
+Technology:
+Blue Prism
+
+Include:
+
+- Data scraping
+- Queue processing
+- Exception handling
+
+Repository:
+
+REPOSITORY_LINK
+
+Use Blue Prism/RPA badges or icons where possible.
+
+==================================================
+6. FEATURED AUTOMATION PROJECTS
+==================================================
+
+This should be one of the MOST IMPORTANT parts of the README.
+
+Create:
+
+# 🚀 Featured Automation Projects
+
+Use six visually distinct project cards.
+
+The cards should resemble a modern portfolio grid.
+
+Project 1 should visually stand out as the PRIMARY / FEATURED project.
+
+--------------------------------------------------
+PROJECT 1
+--------------------------------------------------
+
+## ⭐ Playwright + TypeScript UI & API Automation Framework
+
+This is my flagship project.
+
+Highlight:
+
+- Scalable Playwright + TypeScript framework
+- Page Object Model
+- Reusable framework components
+- Authentication automation
+- Inventory automation
+- Cart automation
+- Checkout automation
+- Custom fixtures
+- Test data management
+- Constants
+- Enums
+- Utility/helper classes
+- Smoke suite
+- Regression suite
+- Chromium
+- Firefox
+- WebKit
+- HTML reporting
+- Allure reporting
+- Screenshots
+- Videos
+- Traces
+- Git/GitHub workflow
+- Feature branches
+- Pull Requests
+- GitHub Actions
+- Jenkins CI/CD
+
+Show this framework structure visually:
+
+tests/
+pages/
+fixtures/
+utils/
+data/
+constants/
+enums/
+playwright.config.ts
+
+Add:
+
+[View Project →](REPOSITORY_LINK)
+
+Make this card larger or visually emphasized.
+
+--------------------------------------------------
+PROJECT 2
+--------------------------------------------------
+
+## 🔌 API Testing Suite — Playwright + TypeScript
+
+Highlight:
+
+- REST API automation
+- Status-code assertions
+- JSON response validation
+- JSON schema validation
+- AJV
+- Reusable helpers
+- Custom fixtures
+- Consistent test naming
+
+Add:
+
+[View Project →](REPOSITORY_LINK)
+
+--------------------------------------------------
+PROJECT 3
+--------------------------------------------------
+
+## 🛒 OpenCart — End-to-End UI Automation
+
+Technology:
+
+Selenium + Java + POM
+
+Automated:
+
+- Login
+- Product search
+- Add to cart
+- Checkout
+
+Add:
+
+[View Project →](REPOSITORY_LINK)
+
+--------------------------------------------------
+PROJECT 4
+--------------------------------------------------
+
+## 🤖 AI Singapore — HR RPA Exercise
+
+Technology:
+
+Blue Prism
+
+Highlight:
+
+- Job-list download
+- Queue processing
+- Exception handling
+
+Add:
+
+[View Project →](REPOSITORY_LINK)
+
+--------------------------------------------------
+PROJECT 5
+--------------------------------------------------
+
+## 🔐 ACME — Client Security Hash Automation
+
+Technology:
+
+Blue Prism
+
+Highlight:
+
+- Data scraping
+- Queue processing
+- Exception handling
+
+Add:
+
+[View Project →](REPOSITORY_LINK)
+
+--------------------------------------------------
+PROJECT 6
+--------------------------------------------------
+
+## 🧠 Position Pal — AI Resume Screening Assistant
+
+Technology:
+
+Microsoft 365 Copilot
+
+Highlight:
+
+- Job description analysis
+- Resume analysis
+- Required vs missing skill identification
+- Structured screening feedback
+
+Add:
+
+[View Project →](REPOSITORY_LINK)
+
+==================================================
+7. AUTOMATION ENGINEERING APPROACH
+==================================================
+
+Create a premium section:
+
+# 🧠 My Automation Engineering Approach
+
+Make this look like a compact engineering principles panel.
 
 Use:
 
-* Clean HTML
-* Markdown
-* Professional badges
-* Centered header
-* Well-spaced sections
-* Consistent visual hierarchy
-* Minimal emojis
-* Attractive project cards
-* Technology badges
-* Clean tables where useful
-* GitHub-compatible formatting
-* Professional wording
-* Recruiter-friendly structure
+Maintainability
+→ Reusable framework components and clean structure
 
-The design should feel similar to a **professional software engineer / automation engineer portfolio**.
+Reusability
+→ Page Objects, fixtures, utilities and test data
 
-Do NOT make it look like:
+Reliability
+→ Strong assertions and organized test suites
 
-* A college student profile
-* A Data Analyst portfolio
-* A generic GPRM template
-* A collection of random badges
-* A motivational profile
-* An emoji-heavy profile
+Debuggability
+→ Screenshots, videos, traces and reports
 
----
+Scalability
+→ Framework architecture designed for extending coverage
 
-# 🚫 REMOVE ALL OLD DATA ANALYTICS CONTENT
+CI/CD
+→ Automated execution through GitHub Actions and Jenkins
 
-This is mandatory.
+Do NOT overstate these as professional achievements.
 
-Completely remove any reference to:
+Present them as the engineering principles I follow in my projects.
 
-* Data Analyst
-* Data Analytics
-* Power BI
-* Dashboard Builder
-* Pandas
-* NumPy
-* Matplotlib
-* Plotly
-* Data Visualization
-* Data Science
-* Machine Learning
-* Analytics projects
+==================================================
+8. ENGINEERING WORKFLOW
+==================================================
 
-unless a technology is specifically required by one of the current projects above.
+Create a visual workflow similar to a professional engineering pipeline:
 
-The old README should be treated as **deleted**, not edited.
+PLAN
+↓
+DEVELOP
+↓
+TEST
+↓
+COMMIT
+↓
+PULL REQUEST
+↓
+REVIEW
+↓
+MERGE
+↓
+CI/CD
 
----
+Use arrows and icons.
 
-# 🎯 RECRUITER IMPRESSION
+Under the workflow mention:
 
-Design the README so that when a QA/Automation recruiter opens my GitHub, the first impression is:
+- Feature branches
+- Meaningful commits
+- Pull Requests
+- Code review
+- Merge-based integration
+- GitHub Actions
+- Jenkins
 
-> "Mithun is focused on QA Automation and has actually built Playwright frameworks, API automation, CI/CD workflows, Selenium automation, and Blue Prism RPA solutions."
+==================================================
+9. CURRENTLY LEARNING
+==================================================
 
-The profile should demonstrate:
+Create a clean compact section:
 
-**Automation + Framework Design + API Testing + UI Testing + CI/CD + RPA**
+## 📚 Currently Learning
 
-rather than simply listing technologies.
+Include:
 
-Do not make unsupported claims.
+- Advanced Playwright
+- Advanced TypeScript for Automation
+- UI + API Automation
+- Automation Framework Architecture
+- CI/CD & DevOps for Test Automation
+- Git & GitHub Advanced Workflows
+- Advanced Test Automation Practices
+- AI-assisted Testing & Automation
 
-Do not invent professional experience.
+Keep this section concise.
 
-Do not invent project metrics.
+==================================================
+10. EDUCATION
+==================================================
 
-Do not claim certifications that are not listed.
+Create a clean card/section:
 
-Do not claim employment that is not listed.
+🎓 Education
 
-Use my actual experience and projects as the foundation.
+Master of Computer Applications (MCA)
+SNS College of Technology
+2023–2025
 
----
+Bachelor of Computer Science (BSc. CS)
+KG College of Arts and Science
+2020–2023
 
-# ✅ FINAL OUTPUT
+==================================================
+11. CERTIFICATIONS
+==================================================
 
-Return ONLY the complete, polished, ready-to-paste `README.md`.
+Create:
 
-Do not give an explanation before it.
+🏆 Certifications
 
-Do not give an outline.
+Include:
 
-Do not discuss what you changed.
+- Blue Prism Foundation Training
+- Blue Prism ROM2
+- Playwright API Testing Mastery with TypeScript — Udemy
+- SAP ABAP
+- Python — PrepInsta
 
-Do not include placeholder commentary outside the README.
+==================================================
+12. GITHUB STATISTICS
+==================================================
 
-Use `REPOSITORY_LINK` placeholders where actual repository URLs are unknown.
+GitHub statistics should NOT dominate the page.
 
-Make the final README **beautiful, professional, technically credible, and recruiter-focused**.
+If used, place them near the bottom.
+
+Use only 1–2 useful statistics.
+
+Do NOT use:
+
+- Huge trophy sections
+- Visitor counter
+- Excessive streak cards
+- Fake metrics
+- Contribution statistics that may break
+- Random animated widgets
+
+Projects and engineering skills are more important than statistics.
+
+==================================================
+13. FINAL CTA
+==================================================
+
+End with an attractive section:
+
+## 🤝 Let's Connect
+
+Something similar to:
+
+I'm actively looking for opportunities to grow as a QA Automation Engineer and contribute to UI automation, API automation, test frameworks, CI/CD and RPA solutions.
+
+Then create a prominent:
+
+[Let's Build Quality Together 🚀](https://linkedin.com/in/mithun-r-i)
+
+button/badge.
+
+==================================================
+14. VISUAL DESIGN
+==================================================
+
+The final README must visually resemble a modern developer portfolio.
+
+Use:
+
+- Dark theme
+- Navy/black background-compatible design
+- Blue accents
+- Purple accents
+- Cyan accents
+- Subtle green highlights
+- HTML tables for cards
+- Shields.io badges
+- Simple SVG/icons where GitHub supports them
+- Center alignment for hero
+- Two-column sections where appropriate
+- Grid-style project cards
+- Clear section separators
+- Compact text
+- Strong headings
+- Consistent spacing
+
+IMPORTANT:
+
+GitHub strips or restricts some CSS.
+
+Therefore:
+
+DO NOT rely on:
+- <style> blocks
+- JavaScript
+- external CSS files
+- unsupported CSS animations
+- arbitrary HTML components
+- JavaScript widgets
+
+Use only GitHub-compatible Markdown/HTML.
+
+When a visual effect cannot be achieved natively in GitHub README, use a GitHub-compatible alternative such as:
+- SVG image
+- shields.io badge
+- HTML table
+- Markdown image
+- GitHub-safe HTML
+
+==================================================
+15. HERO IMAGE / BANNER
+==================================================
+
+Create a visually impressive GitHub-compatible banner/header.
+
+If an SVG banner is appropriate, provide the complete SVG code as a separate file:
+
+assets/header.svg
+
+The header should include:
+
+Mithun R I
+
+QA Automation Engineer
+
+Playwright + TypeScript
+UI & API Automation
+RPA / Blue Prism
+
+Use a dark futuristic automation/technology aesthetic.
+
+Do NOT put too much text into the banner.
+
+If you cannot create an SVG safely, use a Markdown-compatible banner instead.
+
+==================================================
+16. PROFILE PHOTO
+==================================================
+
+I already have a GitHub profile picture.
+
+Do NOT create a fake portrait.
+
+Do NOT invent another person.
+
+If a README image is useful, provide a placeholder:
+
+assets/profile.png
+
+and clearly explain where I should place my own GitHub profile photo.
+
+However, do not make the README dependent on the photo.
+
+==================================================
+17. BADGES
+==================================================
+
+Use badges intelligently.
+
+Recommended:
+
+Playwright
+TypeScript
+Java
+Python
+Selenium
+Git
+GitHub
+GitHub Actions
+Jenkins
+Blue Prism
+MySQL
+JIRA
+
+Do NOT put 50+ badges in one giant row.
+
+Organize them into meaningful categories.
+
+==================================================
+18. REPOSITORY LINKS
+==================================================
+
+I may not have provided the exact repository URLs.
+
+NEVER invent repository URLs.
+
+Use:
+
+REPOSITORY_LINK
+
+as a placeholder.
+
+Clearly identify where I need to replace the placeholder.
+
+==================================================
+19. VERY IMPORTANT — PROFILE BIO
+==================================================
+
+My GitHub account's LEFT-SIDE PROFILE BIO is currently wrong.
+
+It currently says something like:
+
+"Aspiring Data Analyst with strong skills in Python, SQL..."
+
+That must be replaced separately from the README.
+
+Give me the exact replacement GitHub profile bio:
+
+"QA Automation Engineer | Playwright + TypeScript | UI & API Automation | RPA / Blue Prism"
+
+Keep it short enough for the GitHub bio field.
+
+Also suggest a professional GitHub location/website setup if appropriate, but do not invent a personal website.
+
+==================================================
+20. ACCURACY RULE
+==================================================
+
+Everything must be based on my actual resume.
+
+My resume says:
+
+Professional Summary:
+QA Automation professional with hands-on experience in UI automation, API test automation, and RPA.
+
+Experience:
+QA & Automation Testing Intern / RPA Trainee
+Automatorr Consulting Services Private Limited
+Aug 2025 – Feb 2026
+Internship completed Feb 10, 2026.
+
+My actual skills include:
+
+Playwright
+Selenium
+TypeScript
+Java
+Python
+SQL
+POM
+Custom Fixtures
+Reusable Utilities
+Test Data Management
+REST API Testing
+JSON Validation
+JSON Schema Validation
+AJV
+Git
+GitHub
+GitHub Actions
+Jenkins
+HTML Reports
+Allure Reports
+Screenshots
+Videos
+Traces
+Blue Prism
+Work Queues
+Exception Handling
+Process/Object Design
+Credential Management
+Manual Testing
+JIRA
+STLC
+SDLC
+Agile/Scrum
+MySQL
+ChatGPT
+Claude
+Microsoft 365 Copilot
+
+Do not invent:
+- Years of experience
+- Company experience
+- Salary
+- Client names not listed
+- Production metrics
+- Automation percentages
+- Number of test cases
+- Number of APIs
+- Number of users
+- Certifications not listed
+- Professional titles not supported by my resume
+
+==================================================
+21. FINAL OUTPUT FORMAT
+==================================================
+
+Give me ALL required files/content needed to implement this GitHub profile.
+
+Output in this order:
+
+1. FINAL README.md
+2. OPTIONAL assets/header.svg if needed
+3. Exact GitHub profile BIO
+4. Exact instructions showing where I should replace REPOSITORY_LINK
+5. Short instructions for where each asset should be uploaded
+
+The README must be completely ready to paste.
+
+Do not give me a boring template.
+
+Do not give me an outline.
+
+Do not simply convert my resume into Markdown.
+
+DESIGN IT LIKE A REAL QA AUTOMATION ENGINEER PORTFOLIO.
+
+The final result should make a recruiter think:
+
+"This candidate has a clear QA Automation direction, has actually built Playwright UI/API automation, understands framework design and CI/CD, and also has hands-on RPA/Blue Prism experience."
+
+MOST IMPORTANT:
+
+The old Data Analyst profile is completely removed.
+
+My new identity is:
+
+MITHUN R I
+QA AUTOMATION ENGINEER
+PLAYWRIGHT + TYPESCRIPT
+UI & API AUTOMATION
+SELENIUM + JAVA
+CI/CD
+RPA / BLUE PRISM
