@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 420" role="img" aria-labelledby="title desc">
+  <title id="title">QA Automation Illustration</title>
+  <desc id="desc">A stylized automation dashboard with browser, API, test and CI/CD elements.</desc>
+  <defs>
+    <linearGradient id="panel" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#101A34"/>
+      <stop offset="1" stop-color="#080D1B"/>
+    </linearGradient>
+    <linearGradient id="line" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#35D0FF"/>
+      <stop offset="1" stop-color="#7C5CFF"/>
+    </linearGradient>
+  </defs>
+
+  <rect x="18" y="18" width="524" height="384" rx="28" fill="#070B16" stroke="#26345E" stroke-width="3"/>
+
+  <g transform="translate(55 55)">
+    <rect width="450" height="245" rx="18" fill="url(#panel)" stroke="#334777" stroke-width="2"/>
+    <rect x="22" y="22" width="406" height="170" rx="12" fill="#060A13"/>
+    <circle cx="42" cy="42" r="6" fill="#FF6B6B"/>
+    <circle cx="62" cy="42" r="6" fill="#FFD166"/>
+    <circle cx="82" cy="42" r="6" fill="#2EAD33"/>
+
+    <rect x="30" y="68" width="120" height="94" rx="10" fill="#101A34" stroke="#35D0FF"/>
+    <text x="90" y="94" text-anchor="middle" fill="#35D0FF" font-family="Arial" font-size="13" font-weight="700">UI TEST</text>
+    <path d="M54 116h70M54 133h52" stroke="#B9C5E2" stroke-width="6" stroke-linecap="round"/>
+
+    <rect x="165" y="68" width="120" height="94" rx="10" fill="#101A34" stroke="#7C5CFF"/>
+    <text x="225" y="94" text-anchor="middle" fill="#BDAEFF" font-family="Arial" font-size="13" font-weight="700">API</text>
+    <path d="M190 116h70M190 133h48" stroke="#B9C5E2" stroke-width="6" stroke-linecap="round"/>
+
+    <rect x="300" y="68" width="100" height="94" rx="10" fill="#101A34" stroke="#2EAD33"/>
+    <text x="350" y="94" text-anchor="middle" fill="#77E97D" font-family="Arial" font-size="13" font-weight="700">PASS</text>
+    <path d="M334 125l12 12 25-30" fill="none" stroke="#2EAD33" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+
+  <g transform="translate(82 330)">
+    <rect width="105" height="42" rx="21" fill="#101A34" stroke="#35D0FF"/>
+    <text x="52" y="27" text-anchor="middle" fill="#DFF8FF" font-family="Arial" font-size="12" font-weight="700">PLAYWRIGHT</text>
+    <rect x="120" width="92" height="42" rx="21" fill="#101A34" stroke="#7C5CFF"/>
+    <text x="166" y="27" text-anchor="middle" fill="#EEE9FF" font-family="Arial" font-size="12" font-weight="700">CI/CD</text>
+    <rect x="225" width="92" height="42" rx="21" fill="#101A34" stroke="#2EAD33"/>
+    <text x="271" y="27" text-anchor="middle" fill="#DFFFE2" font-family="Arial" font-size="12" font-weight="700">RPA</text>
+    <rect x="330" width="80" height="42" rx="21" fill="#101A34" stroke="#35D0FF"/>
+    <text x="370" y="27" text-anchor="middle" fill="#DFF8FF" font-family="Arial" font-size="12" font-weight="700">TEST</text>
+  </g>
+</svg>
